@@ -1,6 +1,8 @@
+<!--
 //This code will be included as the 'footer' of your web page content. 
 //Include things like <footer> or anything else that should appear at the top of very web page on your site. 
-  
+-->
+
 <footer>
   
 <article>
