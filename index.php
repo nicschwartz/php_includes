@@ -1,6 +1,8 @@
+<!--
 // Follow the guidelines here for using includes or require functions
 // https://www.tutorialrepublic.com/php-tutorial/php-include-files.php
 //the following uses the HTML5 Boilerplate from VS Code
+-->
 
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
