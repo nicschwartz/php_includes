@@ -22,7 +22,8 @@
         <![endif]-->
 <?php include "header.php"; ?>
 
-      
+<!-- Core content of the home page goes here -->
+        
 <?php include "footer.php"; ?>
 
   </body>
